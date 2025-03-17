@@ -8,7 +8,23 @@ A Tecsus é uma startup que trabalha com coleta e processamento de dados atravé
 
 # Equipe
 
-# Entregas 
-# Sprints
+# Entregas
+ 
+##  Sprints
+| Sprint | Período | Status |
+| :----: | :-----: | :----: |
+| [Sprint 1]| 10/03/2025 - 30/03/2025 | ✅ |  <br>
+| [Sprint 2]| 07/04/2025 - 27/04/2025 | ❌ | <br>
+| [Sprint 3]| 05/05/2025 - 25/05/2025 | ❌ | <br>
 
 # Backlog
+
+
+##  Equipe
+| Foto | Nome | Função | Github | LinkedIn |
+| :--: | :----: | :--: | :----: | :------: |
+| <img src="https://avatars.githubusercontent.com/u/142222453?v=4" width=50px> | Claudio Jayme Diniz | Product Owner | <a href="https://github.com/ClaudioJaymeDiniz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| <img src="https://avatars.githubusercontent.com/u/180947430?v=4" width=50px> | Henrique de Godoy Ramos | Scrum Master | <a href="https://github.com/Henrique-GRamos"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| <a href="https://github.com/IvanSuiyama"> <img src="https://avatars.githubusercontent.com/u/111767391?v=4" alt="fotoperfil" width="50"></a> | Ivan Suiyama Silva | DEV Team | <a href="https://github.com/IvanSuiyama"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| <a href="https://github.com/Karnas01"> <img src="https://avatars.githubusercontent.com/u/128647638?v=4" alt="fotoperfil" width="50"></a> | Arthur Karnas da Rocha | DEV Team | <a href="https://github.com/Karnas01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+|  <a href="https://github.com/ZduardoPereira"><img src="https://avatars.githubusercontent.com/u/127692036?v=4" alt="fotoperfil" width="50"></a> | José Eduardo Fernandes | DEV Team | <a href="https://github.com/ZduardoPereira"><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=000000'/></a> | <a href="https://www.linkedin.com/in/jos%C3%A9-eduardo-fernandes-pereira-b26517284/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
