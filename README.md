@@ -6,10 +6,6 @@ A Tecsus é uma startup que trabalha com coleta e processamento de dados atravé
 
 # Repositorio
 
-# Equipe
-
-# Entregas
- 
 ##  Sprints
 | Sprint | Período | Status |
 | :----: | :-----: | :----: |
@@ -18,6 +14,14 @@ A Tecsus é uma startup que trabalha com coleta e processamento de dados atravé
 | [Sprint 3]| 05/05/2025 - 25/05/2025 | ❌ | <br>
 
 # Backlog
+| Sprint | User Stories                                                                                                                                           | Estimativa |
+|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 1      | Como admin, quero poder cadastrar estação e visualizar estações cadastradas e poder fazer alterações nesta(s)                     | 5          |
+| 1      | como usuario, quero poder visualizar estações cadastradas e obter mais informações sobre a(s) mesma(s).                           | 5          |
+| 1      | como usuario, quero poder fazer login para ter minhas informações salvas.                                                         | 3          |
+| 1      | como admin, quero poder fazer login para poder ter acesso a area destinada a mim.                                                 | 3          |
+| 1      | Como usuario e admin, quero poder visualizar alertas metereologicos em determinado periodo.                                               | 6          |
+| 1      | Como usuario e admin, quero poder visualizar parametros de uma estação.                                               | 6          |
 
 
 ##  Equipe
