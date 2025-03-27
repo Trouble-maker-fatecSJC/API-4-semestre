@@ -30,10 +30,10 @@ A Tecsus é uma startup que trabalha com coleta e processamento de dados atravé
 
 ## Diagramas do Banco de Dados
 ### Diagrama Entidade-Relacionamento
-<img src="documentos/bancoFinal.png" alt="Diagrama ER" width="600">
+<img src="documentos/bancoFinal.jpg" alt="Diagrama ER" width="600">
 
 ### Diagrama Lógico
-<img src="documentos/bancoFinal2.png" alt="Diagrama Lógico" width="600">
+<img src="documentos/bancoFinal2.jpg" alt="Diagrama Lógico" width="600">
 
 # Endpoints do backend
 
