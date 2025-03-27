@@ -4,6 +4,3 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Trouble-maker-fatecSJC/API4-Frontend
-[submodule "database"]
-	path = database
-	url = https://github.com/Trouble-maker-fatecSJC/API4-BD
