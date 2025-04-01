@@ -18,13 +18,12 @@ A Tecsus é uma startup que trabalha com coleta e processamento de dados atravé
 | 1      | Como admin, quero poder fazer login para poder ter acesso a area destinada a mim.                                                 
 | 1      | Como usuario e admin, quero poder visualizar alertas metereologicos em determinado periodo.                                               
 | 1      | Como usuario e admin, quero poder visualizar parametros de uma estação.                                               
-| 2      | Como admin, desejo implementar o datalogger para a coleta de dados dos sensores, com as informações meteorológicas                     
-| 2      | Como admin, desejo validar e armazenar os dados coletados de forma segura, assegurando a integridade e confiabilidade das informações para análises futuras.                          
-| 2      | Como admin, desejo criar um serviço para receber dados e visualizar as informações coletadas.                                                         
-| 3      | Como admin, desejo criar dashboards customizáveis para diferentes perfis de usuário (administrador, público).                     
-| 3      | Como usuario, desejo ver alertas em caso de falhas ou problemas técnicos para ser notificado de problemas.
+| 2      | Como admin, desejo criar um serviço para receber dados e visualizar as informações coletadas.                    
+| 2      | Como admin, desejo validar e armazenar os dados coletados de forma segura, assegurando a integridade e confiabilidade das informações para análises futuras.         | 2      | Como admin, desejo criar dashboards customizáveis para diferentes perfis de usuário (administrador, público).                     
+| 2      | Como usuario, desejo ver alertas em caso de falhas ou problemas técnicos para ser notificado de problemas.
+| 2      | Como admin, desejo visualizar os dados e informações através de gráficos e tabelas, para auxiliar na compreensão e análise dos dados. 
+| 3      | Como admin, desejo implementar o datalogger para a coleta de dados dos sensores, com as informações meteorológicas 
 | 3      | Como admin, desejo gerador relatórios dinâmico e criar relatórios personalizados de acordo com as necessidades.
-| 3      | Como admin, desejo visualizar os dados e informações através de gráficos e tabelas, para auxiliar na compreensão e análise dos dados. 
 | 3      | Como usuario, desejo visualizar informações dos sensores  de forma didatica,para entender e aprender sobre esses sensores.
                   
 
